@@ -8,63 +8,63 @@
 
 | # | 项目 | 简介 | 语言 | ⭐ |
 |---|------|------|------|----|
-| 1 | [outline/rich-markdown-editor](https://github.com/outline/rich-markdown-editor) | Outline 出品的开源富文本 Markdown 编辑器，基于 React + ProseMirror，写作体验顺滑，适合嵌入笔记与文档产品。 | TypeScript | 2.9K |
-| 2 | [ryanlelek/Raneto](https://github.com/ryanlelek/Raneto) | 用 Markdown 驱动的轻量知识库 Wiki（Node.js），无需数据库，写文档、搭团队 wiki 极简好用。 | JavaScript | 2.9K |
-| 3 | [artempyanykh/marksman](https://github.com/artempyanykh/marksman) | Markdown 的「语言服务」（LSP），在编辑器里提供跨文件引用、补全与诊断，把纯文本笔记变成有结构的知识工程。 | F# | 3.4K |
-| 4 | [jbt/markdown-editor](https://github.com/jbt/markdown-editor) | 网页端实时（GitHub 风格）Markdown 编辑器，左边写右边即时预览，写 README 与文档随手就用。 | JavaScript | 2.9K |
-| 5 | [gnebbia/kb](https://github.com/gnebbia/kb) | 极简的命令行知识库管理器，用纯文本+双向链接组织笔记，终端党的个人 wiki。 | Python | 3.4K |
-| 6 | [panphora/overtype](https://github.com/panphora/overtype) | 把网页当画布的极简 Markdown 编辑器，所见即所得，拖拽即排版，写作零干扰。 | JavaScript | 3.7K |
-| 7 | [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) | 功能强大的安卓图像处理工具箱，批量编辑、格式转换、元数据清理一应俱全，手机端办公修图利器。 | Kotlin | 15.5K |
-| 8 | [HugoBlox/hugo-theme-academic-cv](https://github.com/HugoBlox/hugo-theme-academic-cv) | 基于 Hugo 的学术主页/简历主题，拖拽式生成个人官网与 CV，科研与求职展示一站搞定。 | Jupyter Notebook | 5.1K |
+| 1 | [tianma-if/edgeever](https://github.com/tianma-if/edgeever) | AI 原生的知识库与笔记工具，可作为 Evernote/Obsidian 的替代品，支持即时同步与本地优先，团队与个人整理资料都顺手。 | TypeScript | 3.1K |
+| 2 | [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) | 自托管的文件处理工具箱，支持格式转换、压缩、OCR 识别与语音转写，办公文档批量处理一站搞定。 | TypeScript | 2.9K |
+| 3 | [pingcap/autoflow](https://github.com/pingcap/autoflow) | 基于图谱 RAG 的对话式知识库工具，把企业文档变成可问答的智能助手，检索与生成一体。 | TypeScript | 3.0K |
+| 4 | [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | 本地 AI 驱动的 HTML 编辑器：你描述需求，AI 智能体帮你写出网页并直接发布，做落地页与文档页零门槛。 | HTML | 9.4K |
+| 5 | [SamurAIGPT/llm-wiki-agent](https://github.com/SamurAIGPT/llm-wiki-agent) | 会自动构建与维护的个人知识库：丢入文章、网页、笔记等来源，它自己整理成可检索的 Wiki。 | Python | 3.7K |
+| 6 | [rahulnyk/knowledge_graph](https://github.com/rahulnyk/knowledge_graph) | 把任意文本转换成知识图谱，用于图增强生成（GraphRAG）与知识梳理，让零散信息变成结构化关系网。 | Jupyter Notebook | 4.2K |
+| 7 | [lepture/editor](https://github.com/lepture/editor) | 极简的网页端 Markdown 编辑器，左边写右边即时预览，写文档、README 随手即用。 | JavaScript | 2.8K |
+| 8 | [53AI/53AIHub](https://github.com/53AI/53AIHub) | 开源的 AI 门户与知识库中枢，帮助企业统一管理大模型应用、技能与知识资产。 | Go | 4.3K |
 
 ## NAS 影视库工具（8 个）
 
 | # | 项目 | 简介 | 语言 | ⭐ |
 |---|------|------|------|----|
-| 1 | [SimpleHomelab/Docker-Traefik](https://github.com/SimpleHomelab/Docker-Traefik) | 开箱即用的 Docker 媒体与家庭服务器全家桶（含 Traefik 反向代理），一条命令把 NAS 变成影音中心。 | Shell | 3.4K |
-| 2 | [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) | 基于 Ansible 的一键媒体服务器方案，自动部署 Plex/Emby/Radarr/Sonarr 等，重度影音玩家的自动化运维模板。 | Shell | 2.4K |
-| 3 | [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe) | 自托管的个人相册/图库应用，支持在线看图与整理，把家庭照片库放心放在自己服务器上。 | TypeScript | 2.0K |
-| 4 | [CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) | 跨平台（Android/iOS/Flutter）视频播放器框架，支持 IJKPlayer/ExoPlayer 等多内核，做本地与流媒体播放首选。 | Java | 21.5K |
-| 5 | [anandprtp/Antra](https://github.com/anandprtp/Antra) | 桌面端音乐库整理工具，能把 Spotify、YouTube 等平台的歌单聚合成本地音乐库，统一管理与去重。 | Python | 2.5K |
-| 6 | [FoedusProgramme/Gramophone](https://github.com/FoedusProgramme/Gramophone) | 采用 Material Design 的简洁本地音乐播放器，界面干净、检索顺手，Android 上听歌的好选择。 | Kotlin | 2.4K |
-| 7 | [Novage/p2p-media-loader](https://github.com/Novage/p2p-media-loader) | 开源的 P2P 流媒体播放引擎，支持直播与点播的 peer-to-peer 分发，自建低带宽流媒体服务可用。 | TypeScript | 1.7K |
-| 8 | [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) | 跨平台音乐可视化库，把音频实时渲染成炫酷的 MilkDrop 风格视觉，派对与媒体中心的氛围担当。 | C++ | 4.6K |
+| 1 | [wang-bin/QtAV](https://github.com/wang-bin/QtAV) | 基于 Qt 与 FFmpeg 的跨平台多媒体框架，能在 NAS/盒子/桌面端高效播放音视频，是很多播放器的底层引擎。 | C++ | 4.3K |
+| 2 | [cookpete/react-player](https://github.com/cookpete/react-player) | React 播放器组件，一行代码即可接入本地文件、YouTube、HLS 等多种音视频源，做媒体前端很方便。 | TypeScript | 10.3K |
+| 3 | [librosa/librosa](https://github.com/librosa/librosa) | Python 音频与音乐分析库，节拍、音高、频谱分析一应俱全，自建音乐/播客库与音频处理利器。 | Python | 8.8K |
+| 4 | [jplayer/jPlayer](https://github.com/jplayer/jPlayer) | 基于 jQuery 的 HTML5 音视频播放器，轻量稳定，适合在自建媒体站点上嵌入播放。 | JavaScript | 4.6K |
+| 5 | [MTG/essentia](https://github.com/MTG/essentia) | C++ 音频分析与合成库，涵盖特征提取、音乐描述与音频标注，专业级音乐信息处理基础。 | C++ | 3.8K |
+| 6 | [ZyqGitHub1/h-player-v2](https://github.com/ZyqGitHub1/h-player-v2) | 开源的在线视频播放/资源采集站项目，可聚合多个来源在线观看，家庭影音折腾党的练手与自搭方案。 | Vue | 3.1K |
+| 7 | [pedroSG94/RootEncoder](https://github.com/pedroSG94/RootEncoder) | Android 端的 RTMP/RTSP 推流编码库，可把摄像头/屏幕实时串流，做监控或直播分发可用。 | Kotlin | 3.1K |
+| 8 | [xqq/mpegts.js](https://github.com/xqq/mpegts.js) | 纯前端的 MPEG2-TS/FLV 流媒体播放器，无需插件即可在浏览器里看监控与直播流。 | JavaScript | 2.3K |
 
 ## 管理工具（8 个）
 
 | # | 项目 | 简介 | 语言 | ⭐ |
 |---|------|------|------|----|
-| 1 | [bitwarden/android](https://github.com/bitwarden/android) | Bitwarden 官方安卓客户端，开源的密码保险箱，端到端加密管理账号密码与验证码，全平台同步。 | Kotlin | 9.6K |
-| 2 | [gopasspw/gopass](https://github.com/gopasspw/gopass) | 「稍微更酷一点的」Unix 标准密码管理器，命令行操作、GPG 加密、Git 同步，极客的密码中枢。 | Go | 7.3K |
-| 3 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 自托管开源 CRM（客户关系管理）系统，带原生 AI 能力，小团队管客户、跟销售无需月费。 | TypeScript | 5.2K |
-| 4 | [imapsync/imapsync](https://github.com/imapsync/imapsync) | 老牌 IMAP 邮件迁移/同步工具，把邮箱从一台服务器搬到另一台，运维与换邮箱服务商救星。 | Shell | 4.2K |
-| 5 | [kiali/kiali](https://github.com/kiali/kiali) | Istio 服务网格的可观测性面板，流量拓扑、调用链、熔断一目了然，微服务排障必备。 | Go | 3.6K |
-| 6 | [digint/btrbk](https://github.com/digint/btrbk) | 基于 btrfs 快照的备份工具，定时做增量快照并同步到远程，NAS/服务器备份省心可靠。 | Perl | 2.2K |
-| 7 | [easysoft/zentaopms](https://github.com/easysoft/zentaopms) | 禅道——国内老牌开源项目管理软件，覆盖需求、任务、Bug、迭代与 DevOps，研发团队全程管理。 | PHP | 1.7K |
-| 8 | [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) | 美观的服务器监控仪表盘，CPU/内存/磁盘/温度一屏掌握，装在树莓派或家用服务器上看状态很直观。 | CSS | 2.3K |
+| 1 | [lesspass/lesspass](https://github.com/lesspass/lesspass) | 无状态的开放源代码密码管理器：用主密码+网站名按规则派生密码，无需云端存储，跨设备一致。 | TypeScript | 6.1K |
+| 2 | [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) | 隐私优先的密码管理器，内置邮箱别名功能，全量加密并自托管，注册网站时自动隐藏真实邮箱。 | TypeScript | 3.5K |
+| 3 | [AChep/keyguard-app](https://github.com/AChep/keyguard-app) | 兼容 Bitwarden 与 KeePass(KDBX) 的密码管理器，支持生物识别与自托管，多端同步账号密码。 | Kotlin | 3.6K |
+| 4 | [gitscrum-core/laravel-gitscrum](https://github.com/gitscrum-core/laravel-gitscrum) | 基于 Laravel 的项目管理工具，把 Scrum 看板、任务、冲刺搬到自托管服务器，团队协作不用月费。 | PHP | 2.9K |
+| 5 | [ArnasDon/wacrm](https://github.com/ArnasDon/wacrm) | 可自托管的 WhatsApp CRM 模板：共享收件箱、联系人管理与销售管道，小生意用 WhatsApp 做生意的利器。 | TypeScript | 2.7K |
+| 6 | [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) | Elasticsearch 与 OpenSearch 的导入导出工具，迁移索引、备份数据一条命令搞定，运维必备。 | JavaScript | 7.9K |
+| 7 | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | 非官方但好用的 Home Assistant MCP 服务器，让 AI 智能体通过标准协议控制家里的灯光、开关与传感器。 | Python | 5.5K |
+| 8 | [frappe/frappe_docker](https://github.com/frappe/frappe_docker) | Frappe/ERPNext 的 Docker 部署环境，一条命令拉起企业资源计划（ERP）、库存与项目管理套件。 | Python | 2.6K |
 
 ## AI 工具（8 个）
 
 | # | 项目 | 简介 | 语言 | ⭐ |
 |---|------|------|------|----|
-| 1 | [obra/superpowers](https://github.com/obra/superpowers) | 面向 AI 智能体的「技能框架」与软件开发方法论，把可复用能力模块化，是当前 AI Agent 工程的热门开源项目。 | Shell | 313.5K |
-| 2 | [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) | 通用型 AI 智能体框架，能自主使用工具、操作电脑、联网检索，像数字员工一样完成多步任务。 | Python | 19.8K |
-| 3 | [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | 开发者优先的开源自主智能体框架，可视化编排、工具市场、多 Agent 协作，快速搭建自己的 AI 员工。 | Python | 17.7K |
-| 4 | [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) | 自动化渗透测试智能体框架，把大模型用于安全测试流程编排，安全研究者的 AI 助手。 | Python | 16.3K |
-| 5 | [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) | 为每一个 AI 智能体提供的可移植记忆层，本地存储长期记忆与上下文，让 Agent「记得住」你。 | Python | 13.8K |
-| 6 | [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) | 在本地一键跑 LLaMA 等大模型的最简方案，图形界面、低门槛，私享 AI 不依赖云端。 | CSS | 12.9K |
-| 7 | [mozilla/TTS](https://github.com/mozilla/TTS) | Mozilla 出品的深度学习文本转语音引擎，多语种、可训练，自建语音合成与有声内容利器。 | Jupyter Notebook | 10.2K |
-| 8 | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | 本地化「深度研究」智能体，离线调用大模型做多源检索与综述，隐私友好的研究助手。 | Python | 9.5K |
+| 1 | [micro/go-micro](https://github.com/micro/go-micro) | 面向智能体、工具与微服务的 Go 框架，提供 RPC、事件与可插拔架构，是构建 AI Agent 后端的热门底座。 | Go | 23.1K |
+| 2 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 开源 AI 智能体框架与元编排器（meta-harness），统一调度 Claude 等多模型，编排复杂多步任务。 | Python | 11.3K |
+| 3 | [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | 开源的 TypeScript AI Agent 工程平台与框架，可视化构建、调试与部署智能体工作流。 | TypeScript | 10.9K |
+| 4 | [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) | 本地实时语音转文字（流式 ASR），带说话人分离与翻译，会议/直播字幕与笔记的隐私方案。 | Python | 11.2K |
+| 5 | [jasonppy/VoiceCraft](https://github.com/jasonppy/VoiceCraft) | 零样本语音编辑与文本转语音模型，可像改文字一样改写已录制音频里的词句，配音与剪辑的黑科技。 | Jupyter Notebook | 8.6K |
+| 6 | [raga-ai-hub/RagaAI-Catalyst](https://github.com/raga-ai-hub/RagaAI-Catalyst) | Agent AI 的可观测性、监控与评估 SDK，追踪智能体链路、定位幻觉与失败，AI 应用上线护航。 | Python | 16.2K |
+| 7 | [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) | 全栈 MCP 框架，用于给 ChatGPT/Claude 等接上 MCP 服务器与工具，快速把智能体接到真实世界能力。 | TypeScript | 10.9K |
+| 8 | [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | 面向高度监管团队与注重隐私场景的私有化 AI 智能体框架，低代码编排多 Agent 协作。 | Python | 9.3K |
 
 ## 猎奇创新（8 个）
 
 | # | 项目 | 简介 | 语言 | ⭐ |
 |---|------|------|------|----|
-| 1 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | .NET 的编译器平台（C#/VB），开放了语法分析、诊断与代码修复 API，是现代 IDE 智能补全的底层引擎。 | C# | 20.8K |
-| 2 | [gnachman/iTerm2](https://github.com/gnachman/iTerm2) | macOS 上口碑极佳的终端模拟器，分屏、热键、自动补全、GPU 加速渲染，终端党的桌面标配。 | Swift | 18.3K |
-| 3 | [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) | Rust 的编译器前端 / 语言服务器，为 IDE 提供闪电般的补全、跳转与重构，是 Rust 开发体验的核心。 | Rust | 17.0K |
-| 4 | [scala/scala](https://github.com/scala/scala) | Scala 2 编译器与标准库源码，融合面向对象与函数式编程，JVM 上优雅而强大的语言引擎。 | Scala | 14.5K |
-| 5 | [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) | Firefox 浏览器开源源码（Gecko 引擎），注重隐私与开放标准，想读透浏览器内核从这里开始。 | JavaScript | 13.7K |
-| 6 | [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) | 为响应式网页开发改造的浏览器，并排预览多端视口、一键截图，前端开发调试神器。 | TypeScript | 25.5K |
-| 7 | [openwall/john](https://github.com/openwall/john) | John the Ripper——经典的开源密码破解/审计工具，支持海量哈希格式，安全与 CTF 领域的老牌利器。 | C | 13.9K |
-| 8 | [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) | 基于 Web Audio 的交互式音乐合成框架，在浏览器里写旋律、做音序与合成，声音编程的创意玩具。 | TypeScript | 14.9K |
+| 1 | [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) | 为 AI 智能体与网页抓取打造的无头浏览器，比传统方案更轻更快，自动化采集与 Agent 上网的新玩具。 | Rust | 30.5K |
+| 2 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 用 AI 智能体一键克隆爆款视频——不只是脚本，而是从选题、素材到剪辑发布的整条工作流自动化。 | TypeScript | 28.3K |
+| 3 | [kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS) | 把一家公司当成『操作系统』来管理的开源项目，整合任务、流程与协作，组织运作的新范式。 | TypeScript | 20.4K |
+| 4 | [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) | AI 驱动的人生操作系统，帮你规划、追踪与优化目标与习惯，把自我管理变成可工程的系统。 | TypeScript | 19.7K |
+| 5 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | 开源的 Grok 机器人替代品，给机器人配一个可用虚拟机去执行任务，AI Agent 跑真实环境的尝试。 | TypeScript | 15.4K |
+| 6 | [WebKit/WebKit](https://github.com/WebKit/WebKit) | Safari、邮件等使用的浏览器引擎开源源码，想读透浏览器内核（排版/渲染/JS）从这里开始。 | JavaScript | 10.3K |
+| 7 | [dart-lang/sdk](https://github.com/dart-lang/sdk) | Dart 语言 SDK，内含 VM、JS 与 Wasm 编译器及核心库，是 Flutter 的底层引擎，编译器爱好者必看。 | Dart | 11.3K |
+| 8 | [xdissent/ievms](https://github.com/xdissent/ievms) | 自动化安装微软 IE 应用兼容虚拟机的脚本，前端/测试同学在一台机器上跑齐各版本 IE 的复古折腾方案。 | Shell | 9.8K |
